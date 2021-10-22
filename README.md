@@ -1,4 +1,4 @@
-## Use caffe model
+## Use tf model
 ```bash
 $ python3 caffe_demo.py
 ```
